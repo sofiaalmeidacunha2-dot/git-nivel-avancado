@@ -3,6 +3,7 @@
 Atividade avaliativa nível avançado.
 
 
+
 \#Integrantes
 
 Sofia
@@ -14,6 +15,8 @@ NATHALIA
 MARIA PAULA
 
 SOFIA
+
+HELOA
 
 
 
@@ -74,6 +77,7 @@ Removemos as marcações de conflito, salvamos o arquivo, e finalizamos com git 
 O Pull Request foi mesclado normalmente depois da resolução.
 
 
+
 Issues abertas (melhorias futuras)
 
 
@@ -85,5 +89,4 @@ O que ainda falta fazer
 &#x20;Criar a tag v1.0 no commit final (git tag v1.0 + git push origin v1.0).
 
 &#x20;Deletar os branches já mesclados, local e remotamente.
-
 
