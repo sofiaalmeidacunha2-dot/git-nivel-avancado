@@ -3,6 +3,9 @@
 Atividade avaliativa nível avançado.
 
 
+\#Integrantes
+
+Sofia
 
 PARTICIPANTES:
 
@@ -82,4 +85,5 @@ O que ainda falta fazer
 &#x20;Criar a tag v1.0 no commit final (git tag v1.0 + git push origin v1.0).
 
 &#x20;Deletar os branches já mesclados, local e remotamente.
+
 
